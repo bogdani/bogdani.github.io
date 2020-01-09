@@ -6,7 +6,7 @@
       <!-- Columns Row-1 -->
       <div class="columns">
         <!-- First column content row-1 -->
-        <div class="column is-4">
+        <!-- <div class="column is-4">
           <div class="box myCard">
             <article class="media">
               <div class="media-left">
@@ -27,7 +27,8 @@
   						</div>
             </article>
           </div>
-        </div><!-- first column content -->
+        </div> -->
+        <!-- first column content -->
         <!-- Second column content row-2 -->
         <div class="column is-4">
           <div class="box myCard">
@@ -52,7 +53,7 @@
           </div>
       </div><!-- second column content -->
       <!-- Third column content row-1 -->
-      <div class="column is-4">
+      <!-- <div class="column is-4">
         <div class="box myCard">
           <article class="media">
             <div class="media-left">
@@ -73,12 +74,13 @@
   					</div>
           </article>
         </div>
-    </div><!-- third column content -->
+    </div> -->
+    <!-- third column content -->
   </div><!-- columns -->
   <!-- Columns Row 2-->
   <div class="columns">
     <!-- First column content row-2 -->
-    <div class="column is-4">
+    <!-- <div class="column is-4">
       <div class="box myCard">
         <article class="media">
           <div class="media-left">
@@ -99,7 +101,8 @@
           </div>
         </article>
       </div>
-    </div><!-- first column content -->
+    </div> -->
+    <!-- first column content -->
     <!-- Second column content row-2 -->
     <!-- <div class="column is-4">
       <div class="box myCard">
