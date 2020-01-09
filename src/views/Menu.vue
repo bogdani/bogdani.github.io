@@ -26,7 +26,7 @@
     <div class="navbar-start">
       <router-link to="logo" class="navbar-item">Logo design</router-link>
       <router-link to="web" class="navbar-item">Web development</router-link>
-      <router-link to="test" class="navbar-item">Test</router-link>
+      <!-- <router-link to="test" class="navbar-item">Test</router-link> -->
     </div>
 
     <div class="navbar-end">

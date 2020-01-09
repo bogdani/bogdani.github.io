@@ -19,7 +19,7 @@
               <div class="media-content">
   								<div class="content">
   										<p>
-  										<strong><a href="http://www.reflectionart.ro">Reflection ART</a></strong>
+  										<strong><a href="#">Reflection ART</a></strong>
   										<br>
   										Wordpress implementation, HTML, CSS, Jquery.
   									</p>
@@ -65,7 +65,7 @@
             <div class="media-content">
   								<div class="content">
   									<p>
-  										<strong><a href="http://zenphoto.reflectionart.ro">Zen Photo</a></strong>
+  										<strong><a href="#">Zen Photo</a></strong>
   										<br>
   										A project for Avantaj Consulting.
   									</p>
@@ -101,7 +101,7 @@
       </div>
     </div><!-- first column content -->
     <!-- Second column content row-2 -->
-    <div class="column is-4">
+    <!-- <div class="column is-4">
       <div class="box myCard">
         <article class="media">
           <div class="media-left">
@@ -115,7 +115,7 @@
             <div class="media-content">
   							<div class="content">
                   <p>
-  										<strong><a href="http://www.avocat.reflectionart.ro">Cabinet de avocat</a></strong>
+  										<strong><a href="#">Cabinet de avocat</a></strong>
   										<br>
   										Wordpress implementation, HTML, CSS, Jquery.
   									</p>
@@ -124,7 +124,8 @@
           </div>
         </article>
       </div>
-  </div><!-- second column content -->
+  </div> -->
+  <!-- second column content -->
 
   </div><!-- columns row-2 -->
 
