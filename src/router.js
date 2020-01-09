@@ -8,6 +8,7 @@ import Logo from './views/Logo'
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
@@ -29,6 +30,4 @@ export default new Router({
       redirect: '/'
   	}
   ],
-  mode: 'history'
-
 })
